@@ -8,6 +8,8 @@ JUTSU is an enterprise memory platform that turns an organisation’s scattered 
 
 > A fact is only useful when you can see where it came from—and only visible when you have permission to see that evidence.
 
+##AWS Off Campus Verification Code: NXBTT9
+
 ## What JUTSU is being built to do
 
 - **Cited Q&A:** Answer questions from organisational knowledge with links back to supporting evidence.
